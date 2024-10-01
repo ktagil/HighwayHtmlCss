@@ -1,0 +1,78 @@
+.top-title{
+    display: flex;
+    height: 70px;
+    width: 500;
+    background-color: darkgray;
+    align-items: center;
+    justify-content: space-between;
+    padding : 0 85px;
+    
+}
+
+.book-logo a{
+text-decoration: none;
+
+color: black;
+font-size: larger;
+}
+
+
+.demo-blocks{
+margin-right: 490px;
+}
+
+
+.demo-blocks ul {
+    list-style-type: none;
+    display:flex ;
+    gap: 20px;
+}
+
+.demo-blocks ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.buy-now button{
+    height: 45px;
+    width: 90px;
+    background-color:tan;
+    color: white;
+    border-color: tan;
+    
+}
+
+.learn-more{
+    height: 100vh;
+    text-align: center;
+    background-image: url(./image/2.webp);
+    background-position: center;
+    background-size: cover;
+    padding-top: 400px;
+  }
+
+  .learn-more h1{
+    font-size: 95px;
+    color: white;
+    margin: 0;
+  }
+
+  .learn-more h2{
+    font-size: 35px;
+    color: white;
+}
+
+.learn-more button{
+    width: 130px;
+    height: 60px;
+    font-size: 15px;
+    color: black;
+    
+  }
+
+
+  
+
+
+
+
